@@ -36,7 +36,7 @@ Click Reset to play again.
 Clone the repository:
 
 
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone (https://github.com/Vaibhaav0001/Tic-Tac-Toe-Game.git)
 Open the index.html file in your browser.
 
 
